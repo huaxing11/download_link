@@ -1,1 +1,1 @@
-https://cloud.thinkraz.com/s/zPMiRB7HJYnKFQ9/download/firmware.tar.gz
+https://cloud.thinkraz.com/s/pnZEjZEePCQ62sm/download/firmware.tar.gz
